@@ -1,5 +1,7 @@
 # test-test
-Test for Haulmont
+Test for Haulmont.
+
+Technology: java8, spring-boot, spring-data-jpa, vaadin
 
 For run Maven the application using **./mvnw spring-boot:run**. 
 
