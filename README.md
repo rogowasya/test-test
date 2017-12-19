@@ -2,6 +2,7 @@
 Test for Haulmont
 
 For run Maven the application using **./mvnw spring-boot:run**. 
+
 Or you can build the JAR file with **./mvnw clean package**. 
 
 Then you can run the JAR file:
